@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hakkımda:
 
 Siber güvenlik alanında yoğun ilgi duyan ve Linux sistemlerinde geniş bir bilgi birikimine sahip olan, ayrıca ağ yapısı ve network teknolojilerine de ilgi duymaktadır. hedefi, Red Teaming alanında uzmanlık kazanmak ve bu alanda etkin bir rol üstlenmektir. Ayrıca, Front-End konularında da çalışmalar, ve etkinliklere katılım sağlamıştır.
 
