@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-Siber güvenlik alanında yoğun ilgi duyuyorum ve Linux sistemlerinde geniş bir bilgi birikimine sahibim. Ayrıca, ağ yapısı ve network teknolojilerine de ilgi duyuyorum.
+Selam dostlar 👋 ben Onat, Siber Güvenlik Red Team uzmanı olup saldırı senaryoları tasarlamayı, uygulamayı ve güvenlik zafiyetlerini derinlemesine analiz etmeyi amaçlıyorum. Kurumların siber güvenlik risklerini proaktif bir şekilde yönetmelerine katkıda bulunarak kendimi bu alanda geliştirmeyi hedefliyorum.
 
 # 💻 Skills:
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
